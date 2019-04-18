@@ -1,1 +1,1 @@
-# JavaScipt-next-generations-basics
+# JavaScript ES6 Basics
